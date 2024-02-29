@@ -2,7 +2,7 @@
 
 - 🖥️ Análise e Desenvolvimento de Sistemas;
 - 🖥️ Desenvolvedor Front-end;
-- 🖥️ Conhecimento em JS, HTML5, CSS3, Python e no GitHub.
+- 🖥️ Conhecimento em JS, TS, HTML5, CSS3, Python e no GitHub.
 
 ### 🕹️ Ferramentas ultilizadas;
 
