@@ -1,8 +1,8 @@
 ### Olá! Me chamo Caio Barreto 👋🏽.
 
 - 🖥️ Análise e Desenvolvimento de Sistemas;
-- 🖥️ Desenvolvedor Front-end;
-- 🖥️ Conhecimento em JS, TS, HTML5, CSS3, Python e no GitHub.
+- 🖥️ Desenvolvedor Full Stack;
+- 🖥️ Conhecimento em ReactJS, NodeJS, Type/JavaScript, MySQL, PostgreSQL e Python/Django.
 
 ### 🕹️ Ferramentas ultilizadas;
 
